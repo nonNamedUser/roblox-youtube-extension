@@ -1,0 +1,17 @@
+{
+    "name": "Injector",
+    "descriptopn": "Injector Script!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.youtube.com/*",
+                "https://*.roblox.com/*"
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ]
+}
