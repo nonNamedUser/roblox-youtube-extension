@@ -1,8 +1,5 @@
-<h1>
-  Why <b>custom backround/font</b>?
-</h1>
+<h1>Just an chrome extension</h1>
 <br>
+<h2>you have to set this up manualy</h2>
 <br>
-<h2>
-  Just makes it look cleaner!!
-</h2>
+<h1>The source code will be in a zip soon!</h1>
