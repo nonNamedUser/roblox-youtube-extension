@@ -123,5 +123,13 @@ if (site.includes("roblox.com")) {
         background-color: #00000050;
         color: ${text_color_colour} !important;
     }
+
+    .dark-theme .alert-warning {
+        opacity: 0;
+    }
+
+    .dark-theme .alert-success {
+        opacity: 0;
+    }
     `) // to remove the comment remove this (/* /*)
 }
