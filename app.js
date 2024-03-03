@@ -100,14 +100,28 @@ if (site.includes("roblox.com")) {
 
     #HomeContainer {
         background-color: ${background_color_colour};
+        color: ${text_color_colour} !important;
     }
 
     #rbx-body #wrap .container-main .content {
         background-color: ${background_color_colour};
+        color: ${text_color_colour} !important;
     }
 
     #rbx-body #wrap .container-footer {
-        background-color: ${background_color_colour};
+        background-color: #00000050;
+        color: ${text_color_colour} !important;
+    }
+
+    .dark-theme .rbx-header {
+        background-color: #00000050;
+        color: ${text_color_colour} !important;
+        border-width: 0 0 0px;
+    }
+
+    .dark-theme .rbx-left-col {
+        background-color: #00000050;
+        color: ${text_color_colour} !important;
     }
     `) // to remove the comment remove this (/* /*)
 }
