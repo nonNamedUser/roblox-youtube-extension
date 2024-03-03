@@ -1,6 +1,6 @@
 {
-    "name": "Injector",
-    "descriptopn": "Injector Script!",
+    "name": "roblox youtube extension",
+    "description": "Extension made by caspergtag. Open sourced code at https://github.com/nonNamedUser/roblox-youtube-extension/",
     "version": "1.0",
     "manifest_version": 3,
     "content_scripts": [
